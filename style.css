@@ -13,3 +13,10 @@ img {
 .net {
   margin-top: 20px;
 }
+
+.btn {
+  display: block;
+  margin: 0px auto;
+  width: 200px;
+  margin-bottom: 10px;
+}
